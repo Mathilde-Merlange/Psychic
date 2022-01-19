@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Le Devin</string>
+    <string name="button_play">JOUER</string>
+    <string name="button_stats">STATS</string>
+    <string name="backbutton">RETOUR</string>
+    <string name="menubutton">MENU</string>
+    <string name="playagain">REJOUER</string>
+    <string name="game_guess">Nombre à deviner : </string>
+    <string name="game_choice">Nombre sélectionné : </string>
+    <string name="game_score">Score : </string>
+    <string name="stats_actual">Score actuel : </string>
+    <string name="stats_best">Meilleur score : </string>
+    <string name="stats_worst">Pire score : </string>
+    <string name="stats_won">Nombre de parties gagnées : </string>
+    <string name="stats_lost">Nombre de parties perdues : </string>
+    <string name="ww"> points, obtenu le </string>
+</resources>

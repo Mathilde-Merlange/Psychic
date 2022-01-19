@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Psychic</string>
+    <string name="button_play">PLAY</string>
+    <string name="button_stats">STATS</string>
+    <string name="backbutton">BACK</string>
+    <string name="menubutton">MENU</string>
+    <string name="playagain">PLAY AGAIN</string>
+    <string name="game_guess">Number to guess : </string>
+    <string name="game_choice">Selected number : </string>
+    <string name="game_score">Score : </string>
+    <string name="stats_actual">Actual score : </string>
+    <string name="stats_best">Best score : </string>
+    <string name="stats_worst">Worst score : </string>
+    <string name="stats_won">Number of won games : </string>
+    <string name="stats_lost">Number of lost games : </string>
+    <string name="ww"> points, obtained on </string>
+</resources>
